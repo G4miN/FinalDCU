@@ -17,3 +17,23 @@ C:\Users\FranklinOmar\Desktop\television\television\obj\Debug\television.exe
 C:\Users\FranklinOmar\Desktop\television\television\obj\Debug\television.pdb
 C:\Users\FranklinOmar\Desktop\television\television\obj\Debug\television.control.resources
 C:\Users\FranklinOmar\Desktop\television\television\obj\Debug\television.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\television.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.csproj.ResolveComReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\television.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\television.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\Bunifu.Core.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.control.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\Interop.AXVLC.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\Interop.AXVLC.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\FinalDCU\television\obj\Debug\television.Television.resources
